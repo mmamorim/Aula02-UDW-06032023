@@ -2,6 +2,10 @@
 
 Repositório de teste da aula 2 - 06/03/2023
 
+Para clonar este projeto?
+
+`git clone https://github.com/mmamorim/Aula02-UDW-06032023.git` 
+
 # Nível 1
 
 ## Nível 2
