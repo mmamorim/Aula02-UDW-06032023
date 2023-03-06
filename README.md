@@ -22,5 +22,5 @@ testando o *itálico* ok?
 
 [clique aqui](https://www.google.com)
 
-![alt text]("https://git-scm.com/images/logo@2x.png")
+![alt text](https://git-scm.com/images/logo@2x.png)
 
