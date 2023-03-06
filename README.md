@@ -24,3 +24,8 @@ testando o *itálico* ok?
 
 ![alt text](https://git-scm.com/images/logo@2x.png)
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
